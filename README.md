@@ -18,9 +18,9 @@ git clone https://github.com/ShamshulFaruqui/IronAI.git
 cd IronAI
 
 ## Setup
-npm install 
-npm run dev
-Site link should be at: http://localhost:3000
+- npm install 
+- npm run dev
+- Site link should be at: http://localhost:3000
 
 🛠️ Tech Stack
 Area	Technologies
