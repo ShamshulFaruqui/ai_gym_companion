@@ -17,26 +17,9 @@ bash
 git clone https://github.com/ShamshulFaruqui/IronAI.git
 cd IronAI
 
-# Frontend
-cd client && npm install
-
-# Backend 
-cd ../server && npm install
-Configuration
-Create .env in /server:
-
-env
-OPENROUTER_API_KEY=your_key_here
-OPENROUTER_MODEL=meta-llama/llama-3-70b-instruct
-PORT=3000
-Run Development
-bash
-# Terminal 1 (Backend)
-cd server && npm run dev
-
-# Terminal 2 (Frontend)
-cd client && npm run dev
-Access at: http://localhost:5173
+# Setup
+npm install
+npm run dev
 
 🛠️ Tech Stack
 Area	Technologies
