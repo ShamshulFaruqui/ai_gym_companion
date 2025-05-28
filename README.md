@@ -30,18 +30,18 @@ AI	LangChain.js, Llama 3 70B
 Styling	Animate.css, FontAwesome
 
 📂 Project Structure
-AI_gym_companion/
-├── client/
-│   ├── public/
-|   |   ├── index.html
-|   └── package.json        
-├── server/
-│   ├── src/
-│   │   ├── index.ts/    
-│   |── package.json
-|   └── tsconfig.json
-|── package.json
-└── tsconfig.json
+- AI_gym_companion/
+- ├── client/
+- │   ├── public/
+- |   |   ├── index.html
+- |   └── package.json        
+- ├── server/
+- │   ├── src/
+- │   │   ├── index.ts/
+- │   |── package.json
+- |   └── tsconfig.json
+- |── package.json
+- └── tsconfig.json
 
 ⚙️ OpenRouter Setup
 Get API key at OpenRouter.ai
